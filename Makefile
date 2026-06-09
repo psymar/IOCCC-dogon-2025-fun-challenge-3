@@ -1,6 +1,6 @@
 #!/usr/bin/env make
 #
-# 2025/dogon Fun Challenge 3 version
+# 2025/dogon Fun Challenge 2 version
 
 ################################################################################
 #
@@ -22,7 +22,7 @@
 #
 # For more information, see: https://creativecommons.org/licenses/by-sa/4.0/
 # 
-# Some small changes have been made for the Fun Challenge 3 code to sit in this
+# Some small changes have been made for the Fun Challenge 2 code to sit in this
 # repository alongside the original.
 # 
 # These changes are Copyright (c) 2026 by Samantha Howard and are shared under

@@ -1,6 +1,6 @@
-// This is an updated version of this program for the IOCCC's third Fun Challenge for this program.
-// As listed at https://www.ioccc.org/2025/dogon/index.html
-// Copyright 2026 Samantha Howard, see LICENSE for license
+// This is an updated version of this program for the IOCCC's Fun Challenge 2
+// as listed at https://www.ioccc.org/2025/dogon/index.html
+// Updates Copyright 2026 Samantha Howard, see LICENSE for license
 
 #include <stdio.h>
 #include <stdlib.h>

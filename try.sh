@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 #
-# try.sh - demonstration of updated version of IOCCC's 2025/dogon
+# try.sh - demonstration of updated version of IOCCC's 2025/dogon for Fun Challenge 2
 
 # make sure CC is set so that when we do make CC="$CC" it isn't empty. Doing it
 # this way allows us to have the user specify a different compiler in an easy way.

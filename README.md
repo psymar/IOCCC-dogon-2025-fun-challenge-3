@@ -1,4 +1,4 @@
-Submission for IOCCC's 2025/dogon Fun Challenge 3
+Submission for IOCCC's 2025/dogon Fun Challenge 2
 © 2026 by Samantha Howard
 
 ## The point:
